@@ -35,7 +35,7 @@
     </form>
 
  
-    <img src="<?php echo $_SESSION['image']; ?>" alt="">
+           <img src="<?php echo $_SESSION['image']; ?>" alt="">
  
 
 
